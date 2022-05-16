@@ -47,3 +47,12 @@
     /* border: 1px solid black; */
     width: 35vw;
 }
+
+.navbar{
+    background-color: rgb(188, 188, 255);
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    font: 1rem;
+
+}
