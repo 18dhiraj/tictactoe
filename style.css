@@ -56,3 +56,10 @@
     font: 1rem;
 
 }
+
+.heading{
+    width: fit-content;
+    margin: 0 auto;
+    padding: 0 1rem;
+    font-size: 1rem;
+}
